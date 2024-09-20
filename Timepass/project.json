@@ -1,6 +1,6 @@
 {
-  "name": "Web Recording",
-  "projectId": "de5d5b9c-f7e1-4125-9b1b-d4942e1965ca",
+  "name": "Timepass",
+  "projectId": "667ffa66-2cd2-4320-a8a3-1089da5fddea",
   "description": "Blank Process",
   "main": "Main.xaml",
   "dependencies": {
@@ -51,7 +51,7 @@
   "entryPoints": [
     {
       "filePath": "Main.xaml",
-      "uniqueId": "ab6d0256-5554-49fb-8cc2-fe14b68f6ef3",
+      "uniqueId": "e82dbcb9-df93-4ca1-9445-7772a997ec6d",
       "input": [],
       "output": []
     }

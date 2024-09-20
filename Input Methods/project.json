@@ -1,11 +1,12 @@
 {
   "name": "Input Methods",
-  "projectId": "dc277017-9a53-459c-a721-4aa63925be94",
+  "projectId": "07b83fbc-5dbf-46f2-993e-3e0b7fd6816e",
   "description": "Blank Process",
   "main": "Main.xaml",
   "dependencies": {
     "UiPath.Excel.Activities": "[2.22.3]",
     "UiPath.Mail.Activities": "[1.21.1]",
+    "UiPath.Python.Activities": "[1.8.1]",
     "UiPath.System.Activities": "[23.10.5]",
     "UiPath.Testing.Activities": "[23.10.1]",
     "UiPath.UIAutomation.Activities": "[23.10.7]"
@@ -51,7 +52,7 @@
   "entryPoints": [
     {
       "filePath": "Main.xaml",
-      "uniqueId": "bf25c39e-9d6d-47b1-8034-fbd00bdefbc8",
+      "uniqueId": "b769d4e4-ff47-4ec8-9d3e-87cb2780c2fd",
       "input": [],
       "output": []
     }

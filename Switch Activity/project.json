@@ -1,6 +1,6 @@
 {
-  "name": "Web Recording",
-  "projectId": "de5d5b9c-f7e1-4125-9b1b-d4942e1965ca",
+  "name": "Switch Activity",
+  "projectId": "9e0146bf-d65a-4c23-98b0-24a1478e85f5",
   "description": "Blank Process",
   "main": "Main.xaml",
   "dependencies": {
@@ -51,7 +51,7 @@
   "entryPoints": [
     {
       "filePath": "Main.xaml",
-      "uniqueId": "ab6d0256-5554-49fb-8cc2-fe14b68f6ef3",
+      "uniqueId": "6f4f069c-d115-429f-8b6b-553823ca6109",
       "input": [],
       "output": []
     }
